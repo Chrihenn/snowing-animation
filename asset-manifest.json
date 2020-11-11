@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/snowing-animation/static/css/main.38ca83f0.chunk.css",
+    "main.js": "/snowing-animation/static/js/main.83130655.chunk.js",
+    "main.js.map": "/snowing-animation/static/js/main.83130655.chunk.js.map",
+    "runtime-main.js": "/snowing-animation/static/js/runtime-main.fd173b41.js",
+    "runtime-main.js.map": "/snowing-animation/static/js/runtime-main.fd173b41.js.map",
+    "static/js/2.d41d483d.chunk.js": "/snowing-animation/static/js/2.d41d483d.chunk.js",
+    "static/js/2.d41d483d.chunk.js.map": "/snowing-animation/static/js/2.d41d483d.chunk.js.map",
+    "static/js/3.2eb211f3.chunk.js": "/snowing-animation/static/js/3.2eb211f3.chunk.js",
+    "static/js/3.2eb211f3.chunk.js.map": "/snowing-animation/static/js/3.2eb211f3.chunk.js.map",
+    "index.html": "/snowing-animation/index.html",
+    "static/css/main.38ca83f0.chunk.css.map": "/snowing-animation/static/css/main.38ca83f0.chunk.css.map",
+    "static/js/2.d41d483d.chunk.js.LICENSE.txt": "/snowing-animation/static/js/2.d41d483d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd173b41.js",
+    "static/js/2.d41d483d.chunk.js",
+    "static/css/main.38ca83f0.chunk.css",
+    "static/js/main.83130655.chunk.js"
+  ]
+}
